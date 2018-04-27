@@ -1,4 +1,4 @@
-[submodule "OCA/hr"]
-	path = OCA/hr
-	url = git@github.com:OCA/hr.git
-	branch = 11.0
+[submodule "emanjuGbr/DigitalWorkbook"]
+	path = emanjuGbr/DigitalWorkbook
+	url = git@github.com:emanjuGbr/DigitalWorkbook.git
+	branch = master
